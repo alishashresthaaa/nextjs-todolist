@@ -1,0 +1,20 @@
+.card {
+  border: 1px solid #eeeeee;
+  margin: 2px;
+  padding: 10px;
+  max-width: 400px;
+  text-align: center;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.edit {
+  background-color: #1d1dff;
+}
+
+.delete {
+  background-color: #ff2727;
+}
